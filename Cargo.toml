@@ -1,0 +1,10 @@
+[package]
+name = "prog_bitcoin"
+version = "0.1.0"
+authors = ["Qasim Javed <qasimj@gmail.com>"]
+edition = "2018"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+num = "0.2.1"
